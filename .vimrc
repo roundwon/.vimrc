@@ -2,6 +2,7 @@ set nocompatible
 
 filetype off
 set number " line 표시(set nu도 가능)
+set rnu "relative numbering for line moving ex) 5k 7j
 set autoindent " 자동 들여쓰기
 syntax on " 문법 하이라이트 on
 set shiftwidth=4 " 자동 공백 채움 시 4칸
